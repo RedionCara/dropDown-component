@@ -1,0 +1,15 @@
+{
+  "name": "dropdown-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node script.js"
+  },
+  "author": "Redion",
+  "license": "ISC",
+  "dependencies": {
+    "dropdown-component": "file:"
+  }
+}
